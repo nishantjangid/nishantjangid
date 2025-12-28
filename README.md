@@ -9,15 +9,10 @@
 ```javascript
 const nishant = {
     role: "Senior Software Engineer @ HCL Technologies",
-    location: "Ajmer, Rajasthan, India",
     experience: "4+ years",
     specialization: ["Full Stack Development", "Backend Architecture", "Cloud Solutions"],
     currentFocus: "Building scalable enterprise applications with MERN stack",
-    learning: ["System Design", "Microservices Architecture", "AWS DevOps"],
-    achievements: [
-        "🏆 Best Developer of the Year 2022 - Thinker Technology",
-        "🥉 Top 3rd Performer - John Deere IT Tech Day 2025"
-    ]
+    learning: ["System Design", "Microservices Architecture", "AWS DevOps"]    
 };
 ```
 
@@ -63,53 +58,6 @@ const nishant = {
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 **HCL Technologies** | Senior Software Engineer
-*Feb 2025 - Present*
-- 🎯 Delivering end-to-end product features for Fortune 500 clients
-- 🔍 Leading code reviews and performance optimization initiatives
-- 🚀 Executing POCs for cloud-native applications and microservices
-
-### 🏢 **Morfdesk LLP** | Node.js Backend Developer
-*Oct 2023 - Feb 2025*
-- ⚡ Architected APIs serving 15,000+ daily requests with 99.9% uptime
-- 🔄 Implemented CI/CD pipelines reducing deployment time by 50%
-- 📊 Improved team velocity by 25% through Agile practices
-
-### 🏢 **Thinker Technology** | Full Stack Blockchain Developer
-*Oct 2021 - Sep 2023*
-- 🏆 **Best Developer of the Year 2022**
-- 🌐 Built scalable Web3 applications with 50,000+ daily transactions
-- 👨‍🏫 Mentored 3 junior developers improving code quality by 30%
-
----
-
-## 🎯 Featured Projects
-
-### 🛍️ **PickPackGo** - Shopify Order & Inventory Management
-> Enterprise SaaS platform managing 100+ Shopify stores
-
-**Tech Stack:** Node.js, React.js, PostgreSQL, AWS, Shopify API, Prisma
-
-✨ **Key Achievements:**
-- 📈 Improved operational efficiency by 40%
-- 📦 Reduced inventory discrepancies by 30%
-- ✅ Enhanced order fulfillment accuracy by 25%
-- 👥 Implemented RBAC boosting team productivity by 20%
-
-### 🏠 **Home Swap Home** - P2P Marketplace
-> Peer-to-peer platform for home product exchange
-
-**Tech Stack:** Node.js, React.js, PostgreSQL, AWS, Strapi CMS
-
-✨ **Key Achievements:**
-- ⚡ Enhanced system performance by 40%
-- 🔐 Integrated OAuth 2.0 & JWT authentication
-- 📱 Built responsive UI increasing engagement by 35%
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,16 +68,6 @@ const nishant = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantjangid&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
-
----
-
-## 🏆 Achievements & Certifications
-
-🥇 **Top 3rd Performer** - John Deere IT Tech Day 2025  
-🥇 **Best Developer of the Year** - Thinker Technology 2022  
-📜 **Low-Level Design of Payment Apps** - Scalar Academy 2024  
-📜 **Full Stack Developer Certification** - DVS Infotech 2019
-
 ---
 
 ## 📈 Contribution Graph
@@ -154,7 +92,6 @@ const nishant = {
 
 ## 💡 What I'm Currently Working On
 
-- 🔭 Building enterprise solutions at **HCL Technologies**
 - 🌱 Learning advanced **System Design** and **Microservices Architecture**
 - 👯 Looking to collaborate on **open-source projects** and **innovative startups**
 - 💬 Ask me about **MERN Stack, AWS, Microservices, System Design**
@@ -168,7 +105,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - 📧 Email: nishantsharma39262@gmail.com
 - 💼 LinkedIn: [nishant-jangid](https://www.linkedin.com/in/nishant-jangid-bb1167197)
-- 🌐 Location: Ajmer, Rajasthan, India
 
 ---
 
